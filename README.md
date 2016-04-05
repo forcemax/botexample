@@ -1,7 +1,7 @@
 # Telegram bot example  
 [![Build Status](https://travis-ci.org/forcemax/botexample.svg?branch=master)](https://travis-ci.org/forcemax/botexample) [![Circle CI](https://circleci.com/gh/forcemax/botexample.svg?style=svg)](https://circleci.com/gh/forcemax/botexample)
 
-Using Simple Java API for Telegram bot. [link](https://github.com/pengrad/java-telegram-bot-api)
+Telegram bot example using [Simple Java API for Telegram bot](https://github.com/pengrad/java-telegram-bot-api)
 
 ## Create a new bot and **token**
 1. Create a new bot. [link](https://core.telegram.org/bots#botfather)

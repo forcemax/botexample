@@ -9,7 +9,14 @@
 	<packaging>pom</packaging>
 	<groupId>com.embian.botexample</groupId>
 	<artifactId>base</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
+
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -82,4 +89,12 @@
 			</plugin>
 		</plugins>
 	</build>
+	
+	<distributionManagement>
+	    <repository>
+	        <id>bintray-forcemax-maven</id>
+	        <name>forcemax-maven</name>
+	        <url>https://api.bintray.com/maven/forcemax/maven/botexample/;publish=1</url>
+	    </repository>
+	</distributionManagement>
 </project>

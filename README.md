@@ -1,5 +1,6 @@
 # Telegram bot example  
-[![Build Status](https://travis-ci.org/forcemax/botexample.svg?branch=master)](https://travis-ci.org/forcemax/botexample) [![Circle CI](https://circleci.com/gh/forcemax/botexample.svg?style=svg)](https://circleci.com/gh/forcemax/botexample)
+[![Build Status](https://travis-ci.org/forcemax/botexample.svg?branch=master)](https://travis-ci.org/forcemax/botexample) [![Circle CI](https://circleci.com/gh/forcemax/botexample.svg?style=svg)](https://circleci.com/gh/forcemax/botexample) [![Download](https://api.bintray.com/packages/forcemax/maven/botexample/images/download.svg) ](https://bintray.com/forcemax/maven/botexample/_latestVersion)
+
 
 Telegram bot example using [Simple Java API for Telegram bot](https://github.com/pengrad/java-telegram-bot-api)
 
